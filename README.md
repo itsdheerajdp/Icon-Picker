@@ -14,7 +14,7 @@ This project is a React component for picking icons from the Feather Icons libra
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/icon-picker.git
+    git clone https://github.com/itsdheerajdp/icon-picker.git
     cd icon-picker
     ```
 
